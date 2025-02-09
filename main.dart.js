@@ -42218,7 +42218,7 @@ J(a){var s=null,r=A.a5(a).ax,q=r.y2
 r=q==null?r.c:q
 this.a.toString
 q=A.o("WM 3.5 Army Builder",s,s,s,s,s,s,s)
-return A.Py(!0,A.vA(new A.ym(q,r,new A.WV(s,s,1/0,56),s),A.a5(a).ax.k2,B.EO,s,new A.n(B.HX,new A.LK(new A.NA("01/18/2025",s),s),s),!1),B.b6,!0)}}
+return A.Py(!0,A.vA(new A.ym(q,r,new A.WV(s,s,1/0,56),s),A.a5(a).ax.k2,B.EO,s,new A.n(B.HX,new A.LK(new A.NA("02/08/2025",s),s),s),!1),B.b6,!0)}}
 A.at7.prototype={
 $1(a){return this.XG(a)},
 XG(a){var s=0,r=A.F(t.H),q=this,p
@@ -45335,7 +45335,7 @@ B.b.M(h)
 b3=a8===1
 if(b3){c2=j2.r
 if(c2!==""){c3=j2.x==="Warcasters/Warlocks/Masters"
-d2=A.bZ(c3?"assets/CardAssets/Parts/BGP Box.png":"assets/CardAssets/Parts/PC Solo Box.png",h7,31.5,28.5)
+d2=A.bZ(c3?"assets/CardAssets/Parts/BGP%20Box.png":"assets/CardAssets/Parts/PC%20Solo%20Box.png",h7,31.5,28.5)
 if(c3)c2="+"+c2
 a6=new A.n(B.HV,new A.fH(B.a3,h7,B.a_,B.E,A.a([d2,new A.n(B.kc,new A.b4(28.5,16.5,new A.f5(B.T,h7,h7,A.o(c2,h7,h7,h7,h7,A.bo().$3$color$fontSize$fontWeight(B.h,12,B.p),B.j,h7),h7),h7),h7)],s),h7),h7)}else{c.toString
 c2=J.cg(c)
