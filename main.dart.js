@@ -8989,11 +8989,11 @@ aCS(a,b,c){var s=null,r=b.length,q=r>15&&c==="mount"?18:9
 if(r>20&&c==="melee")q+=3
 return A.bl(A.q0(B.aB,new A.n(new A.R(6,q,0,0),A.o(b,s,s,s,s,A.bo().$3$color$fontSize$fontWeight(B.h,13,B.p),B.bL,s),s),B.c_),s,a-4)},
 az0(a){var s,r,q,p=null,o=t.p,n=A.a([],o)
-for(s=0;s<20;++s)if(s<a)if(s===0){r=new A.aB(B.x,1,B.w,-1)
-B.b.cw(n,0,new A.b4(17.333333333333332,15,new A.n(B.cz,A.a6(p,new A.f5(B.T,p,p,A.dy(B.fa,B.bP,p,9),p),B.f,p,p,new A.ay(B.an,p,new A.bq(r,r,r,r),p,p,p,p,B.z),p,p,p,p,p,p,p),p),p))}else{q=B.i.bC(s,5)!==0?B.k:B.an
+for(s=0;s<25;++s)if(s<a)if(s===0){r=new A.aB(B.x,1,B.w,-1)
+B.b.cw(n,0,new A.b4(14,15,new A.n(B.cz,A.a6(p,new A.f5(B.T,p,p,A.dy(B.fa,B.bP,p,9),p),B.f,p,p,new A.ay(B.an,p,new A.bq(r,r,r,r),p,p,p,p,B.z),p,p,p,p,p,p,p),p),p))}else{q=B.i.bC(s,5)!==0?B.k:B.an
 r=new A.aB(B.x,1,B.w,-1)
-B.b.cw(n,0,new A.b4(17.333333333333332,15,new A.n(B.cz,A.a6(p,p,B.f,p,p,new A.ay(q,p,new A.bq(r,r,r,r),p,p,p,p,B.z),p,p,p,p,p,p,p),p),p))}else{r=new A.aB(B.aS,1,B.w,-1)
-B.b.cw(n,0,new A.b4(17.333333333333332,15,new A.n(B.cz,A.a6(p,p,B.f,p,p,new A.ay(B.bO,p,new A.bq(r,r,r,r),p,p,p,p,B.z),p,p,p,p,p,p,p),p),p))}B.b.cw(n,0,B.TN)
+B.b.cw(n,0,new A.b4(14,15,new A.n(B.cz,A.a6(p,p,B.f,p,p,new A.ay(q,p,new A.bq(r,r,r,r),p,p,p,p,B.z),p,p,p,p,p,p,p),p),p))}else{r=new A.aB(B.aS,1,B.w,-1)
+B.b.cw(n,0,new A.b4(14,15,new A.n(B.cz,A.a6(p,p,B.f,p,p,new A.ay(B.bO,p,new A.bq(r,r,r,r),p,p,p,p,B.z),p,p,p,p,p,p,p),p),p))}B.b.cw(n,0,B.TN)
 return new A.n(B.Ix,new A.bL(B.dK,p,p,A.dA(B.a3,A.a([A.bZ("assets/CardAssets/Parts/Leader HP Box.png",p,30,375),new A.n(B.on,A.aO(n,B.o,B.bm,B.C),p)],o),B.E,B.a_,p),p),p)},
 aKc(a){var s,r,q,p,o=null,n=t.p,m=A.a([],n),l=A.a([],n)
 for(s=a-2,r=0;r<s;++r){if(r===20){B.b.cw(m,0,B.AM)
@@ -44880,7 +44880,7 @@ $0(){var s=this.a,r=J.m(B.b.gW(A.Q().a),"name")
 r.toString
 s.wa(r)
 r=this.b
-r.e=5
+r.e=0
 r.w9(0)
 s.hS(s.ok)
 s=this.c.a
@@ -45335,7 +45335,7 @@ B.b.M(h)
 b3=a8===1
 if(b3){c2=j2.r
 if(c2!==""){c3=j2.x==="Warcasters/Warlocks/Masters"
-d2=A.bZ(c3?"assets/CardAssets/Parts/BGP%20Box.png":"assets/CardAssets/Parts/PC%20Solo%20Box.png",h7,31.5,28.5)
+d2=A.bZ(c3?"assets/CardAssets/Parts/BGP box.png":"assets/CardAssets/Parts/PC solo Box.png",h7,31.5,28.5)
 if(c3)c2="+"+c2
 a6=new A.n(B.HV,new A.fH(B.a3,h7,B.a_,B.E,A.a([d2,new A.n(B.kc,new A.b4(28.5,16.5,new A.f5(B.T,h7,h7,A.o(c2,h7,h7,h7,h7,A.bo().$3$color$fontSize$fontWeight(B.h,12,B.p),B.j,h7),h7),h7),h7)],s),h7),h7)}else{c.toString
 c2=J.cg(c)
