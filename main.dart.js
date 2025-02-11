@@ -9019,7 +9019,7 @@ for(s=d.length,r=0;r<d.length;d.length===s||(0,A.e)(d),++r)p.push(new A.n(B.Iz,A
 return new A.n(new A.R(a,b,0,0),A.bg(A.rP(B.BJ,p,B.aq,0),q,c),q)},
 aCD(a,b,c,d,e,f){var s,r=null,q=t.p,p=A.a([],q)
 for(s=0;s<3;++s)p.push(new A.b8(29.75,r,A.o(d[s],r,r,r,r,A.bo().$3$color$fontSize$fontWeight(B.h,10,B.o),B.j,r),r))
-return new A.n(new A.R(a,b,0,0),A.du(B.aa,A.a([A.bX("assets/card_assets/parts/weapons/melee_weapon_Box.png",r,62.5,119),A.aCP(119,c,"melee"),A.bg(new A.n(B.Ih,A.aO(p,B.p,B.q,B.t),r),62.5,119),e,f],q),B.E,B.a1,r),r)},
+return new A.n(new A.R(a,b,0,0),A.du(B.aa,A.a([A.bX("assets/card_assets/parts/weapons/melee_weapon_box.png",r,62.5,119),A.aCP(119,c,"melee"),A.bg(new A.n(B.Ih,A.aO(p,B.p,B.q,B.t),r),62.5,119),e,f],q),B.E,B.a1,r),r)},
 aCG(a,b,c,d,e,f){var s,r=null,q=t.p,p=A.a([],q)
 for(s=0;s<4;++s)p.push(new A.b8(29.9,r,A.o(d[s],r,r,r,r,A.bo().$3$color$fontSize$fontWeight(B.h,10,B.o),B.j,r),r))
 return new A.n(new A.R(a,b,0,0),A.du(B.aa,A.a([A.bX("assets/card_assets/parts/weapons/range_weapon_box.png",r,62.5,149.5),A.aCP(149.5,c,"ranged"),A.bg(new A.n(B.Iw,A.aO(p,B.p,B.q,B.t),r),62.5,149.5),e,f],q),B.E,B.a1,r),r)},
